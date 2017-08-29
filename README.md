@@ -1,2 +1,2 @@
 # gitwrapper
-This is a wrapper for Git API.
+This is a python wrapper for Github API.
